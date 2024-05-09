@@ -1,4 +1,4 @@
-### Heyy Lady and Gentlemen 👋
+### Hi there 👋
 
 ```c++
 struct { // About Me
