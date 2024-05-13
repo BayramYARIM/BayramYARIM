@@ -15,13 +15,14 @@ struct { // About Me
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/bayramyarim-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bayramyarim/)
-
+<!--
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=BayramYARIM&show_icons=true&count_private=true&hide=contribs,issues" alt="BayramYARIM's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayramYARIM&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
+-->
 
 
 
